@@ -327,6 +327,7 @@ SET COM /
   'IPPTHF'                   'Industry - Pulp&Paper - Thermal Fuel              '
 /;
 SET COM_DEM /
+  'REGION1'   .'ABCZZ'
   'REGION1'   .'ICPA'
   'REGION1'   .'ICPC'
   'REGION1'   .'ICPE'
