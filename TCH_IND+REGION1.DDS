@@ -1,3 +1,4 @@
+* fadiel's comment: go to bed earlier
 SET ALL_REG /
   'REGION1'
 /;
@@ -5,6 +6,7 @@ SET REG /
   'REGION1'                  'South Africa                                      '
 /;
 SET COM_GRP /
+Fadiel's change to the file
   'CGBFBOF-E-I'              'Comm. Group for Industry - Iron&Steel - BF-BOF - E'
   'CGBFBOF-E-O'              'Comm. Group for Industry - Iron&Steel - BF-BOF - E'
   'CGBFBOF-N-I'              'Comm. Group for Industry - Iron&Steel - BF-BOF - N'
